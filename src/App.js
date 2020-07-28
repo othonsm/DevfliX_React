@@ -1,24 +1,15 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Menu from './components/Menu'
 
+//JavaScript
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    //JSX -> [J]ava[S]cript[X]ML
+    <div>
+      <Menu/>
+      <h1>Hello World!!</h1>
+      <h2>Colocar textos aqui</h2>
+      Update auto 
     </div>
   );
 }
