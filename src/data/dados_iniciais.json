@@ -77,25 +77,33 @@
       "titulo": "Data Science e Inteligência Artificial",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Cursos de I.A - Inteligência Artificial",
+        "url": "https://www.youtube.com/watch?v=EX9AFqLKxbU&list=PLFVwn8GUlc2I5dnkufNPWxNvtkyeIZdtU&index=1"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "IA para Todos - Parte 1 - Introdução",
+          "url": "https://youtu.be/EX9AFqLKxbU"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "IA para Todos Parte 2 Data Structure",
+          "url": "https://youtu.be/yvPXC5Ud_gM"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "IA para Todos - Parte 3 - Deep Learning and Examples",
+          "url": "https://youtu.be/BDMMiPt_ALI"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "IA para Todos Parte 4 Modeling and Configurators",
+          "url": "https://youtu.be/bydv3YNFP9A"
+        },
+        {
+          "titulo": "IA para Todos Parte 5 - Areas and Exemplos",
+          "url": "https://youtu.be/UkYqtbN9Ab0"
+        },
+        {
+          "titulo": "IA para Todos - Parte 6 - Aplicações na indústria e Recommendation Systems",
+          "url": "https://youtu.be/4UkE0CCC0-g"
         }
       ]
     },
