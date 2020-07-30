@@ -14,13 +14,13 @@ background-color: var(--black);
 
 function PageDefault({children}) {
     return (
-        <div>    
+        <>    
             <Menu />
                 <Main>
                     {children}  
                 </Main>
             <Footer />
-        </div>
+        </>
     );
 }
 
